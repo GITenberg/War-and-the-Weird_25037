@@ -1,0 +1,39 @@
+_repo: War-and-the-Weird_25037
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hopkins, R. Thurston (Robert Thurston)
+    alias: Hopkins, Robert Thurston
+    birthdate: 1884
+    deathdate: 1958
+    gutenberg_agent_id: '28360'
+    url: http://www.gutenberg.org/2009/agents/28360
+  - agent_name: Phillips, Forbes
+    birthdate: 1866
+    deathdate: 1917
+    gutenberg_agent_id: '28359'
+    url: http://www.gutenberg.org/2009/agents/28359
+description: 'Introduction, by F. Phillips: The uncanny under fire. War the revealer.
+  The soul''s boundary line. The spiritual entity. Angels. Fellowship with the unseen.
+  The white comrade.--Five sketches, by R. Thurston Hopkins: Ombos. The De Gamelyn
+  traditions. The mills of God. The story of a spy. Through the furnace.'
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2008-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Supernatural'
+title: War and the Weird
+url: http://www.gutenberg.org/ebooks/25037
